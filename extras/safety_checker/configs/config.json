@@ -1,8 +1,6 @@
 {
   "_name_or_path": "clip-vit-large-patch14/",
-  "architectures": [
-    "SafetyChecker"
-  ],
+  "architectures": [],
   "initializer_factor": 1.0,
   "logit_scale_init_value": 2.6592,
   "model_type": "clip",
